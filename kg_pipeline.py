@@ -14,11 +14,11 @@ except LookupError:
 
 # === CONFIGURATION ===
 CSV_PATH = "Financial.csv"
-NEO4J_URI = "bolt://localhost:7687"
+NEO4J_URI = "your-host"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "sito142007"  # ← change if your Neo4j uses a different password
+NEO4J_PASSWORD = "your-password"  # ← change if your Neo4j uses a different password
 
-LLM_API_KEY = "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"
+LLM_API_KEY = "openrouter-api-key"
 LLM_BASE_URL = "https://openrouter.ai/api/v1"
 MODEL_NAME = ("qwen/qwen3-235b-a22b-2507")
 
