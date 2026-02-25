@@ -59,6 +59,8 @@ Below are snippets resulting from our extracted financial relationships loaded i
 **Graph Overview:**
 ![Graph Preview 1](Screenshot%202025-11-11%20at%2020.38.36.png)
 
+
+
 **Specific Relationship Queries:**
 ![Graph Preview 2](Screenshot%202025-11-12%20at%2014.25.24.png)  
 ![Graph Preview 3](Screenshot%202025-11-12%20at%2014.26.04.png)  
